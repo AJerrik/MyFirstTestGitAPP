@@ -3,6 +3,7 @@
     <string name="cheers">Cheers!</string>
     <string name="find_item">find item</string>
     <string name="brands">No brands selected</string>
+    <string name="add_new_shop_item">Add new shop item</string>
     <string-array name="item_colors">
         <item>light</item>
         <item>amber</item>

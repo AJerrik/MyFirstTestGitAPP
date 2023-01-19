@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">MyFirstTestGitAPP</string>
     <string name="cheers">Cheers!</string>
+    <string name="find_item">find item</string>
+    <string name="brands">No brands selected</string>
+    <string-array name="item_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
 </resources>
